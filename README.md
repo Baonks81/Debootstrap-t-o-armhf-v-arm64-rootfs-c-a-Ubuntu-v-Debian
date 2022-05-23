@@ -1,4 +1,4 @@
-# Debootstrap-t-o-armhf-v-arm64-rootfs-c-a-Ubuntu-v-Debian
+# Debootstrap-tao-rootfs-armhf-va-arm64-tren-Ubuntu-va-Debian
 Công cụ để tạo rootfs
 
 Link tham khảo: https://ubuntu-mate.community/t/bootstrapping-ubuntu-mate-for-an-armhf-base/556
